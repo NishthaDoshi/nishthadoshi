@@ -2,7 +2,10 @@
 <h1 align="center">Hello, I'm Nishtha 👋</h1>
 <h3 align="center">Shocking the world with electrifying code – no static allowed! ⚡💻</h3>
 
+<!--
 - 🔭 Currently working on **Facial Motor Driver**
+-->
+- 🔭 Currently working on personal projects
 
 - 📚 Exploring topics in AI and cloud computing in my spare time **.**
   
