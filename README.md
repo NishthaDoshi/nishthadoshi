@@ -1,7 +1,7 @@
 ## Hello! I am Nishtha 👋
 
 
-🔭 Currently working on facial motor projects </br>
+🔭 Currently working on facial motor driver project</br>
 🌱 Constantly improving my problem-solving skills through competitive programming</br>
 📚 Exploring topics in AI and cloud computing in my spare time</br>
 
