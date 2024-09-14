@@ -5,7 +5,7 @@
 🌱 Constantly improving my problem-solving skills through competitive programming</br>
 📚 Exploring topics in AI and cloud computing in my spare time</br>
 
-
+📫 Send me an email on [nishthadoshi10@gmail.com](mailto:nishthadoshi10@gmail.com)
 
 <!--![Nishtha's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishthadoshi&show_icons=true&theme=dracula)-->
 
