@@ -7,7 +7,7 @@
 -->
 - 🔭 Currently working on personal projects
 
-- 📚 Exploring topics in AI and cloud computing in my spare time **.**
+- 📚 Exploring topics in AI and ML in my spare time **.**
   
 - 🌱 Constantly improving my problem-solving skills through competitive programming **.**
   
