@@ -11,7 +11,7 @@
   
 - 🌱 Constantly improving my problem-solving skills through competitive programming **.**
   
-
+📫 Send me an email on **nishthadoshi10@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nishthadoshi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nishthadoshi_" height="30" width="40" /></a>
