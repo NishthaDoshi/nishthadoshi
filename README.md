@@ -9,7 +9,7 @@
 
 - 📚 Exploring topics in AI and ML in my spare time **.**
   
-- 🌱 Constantly improving my problem-solving skills through competitive programming **.**
+- 🌱 Constantly improving my problem-solving skills through competitive programming and Leetcode **.**
   
 📫 Send me an email on **nishthadoshi10@gmail.com**
 <h3 align="left">Connect with me:</h3>
