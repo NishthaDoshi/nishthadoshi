@@ -1,8 +1,13 @@
 # Hi , I'm Nishtha Doshi 👋
 ## About Me
-An engineer who thinks in **algorithms, builds in full-stack, and experiments in AI**.  <br>Instead of writing “passionate about coding,” I’ll just say:  <br><br>- I’ve solved **1000+ problems** across LeetCode, Codeforces & CodeChef — algorithms are my gym.  <br>- I love taking projects **from whiteboard → production** (chat apps, T&C analyzers, rail bogey detection system).  <br>- I break things fast, fix them faster, and optimize till the compiler smiles.  <br><br>I don’t just want to “fit into” systems — I like **designing them, scaling them, and making them run smoother than before**.  <br><br>If you’re looking for someone who blends **competitive programming grit + full-stack skills + AI curiosity**,  <br>that’s me. 🚀  <br>
+An engineer who thinks in **algorithms, builds in full-stack, and experiments in AI**.  <br>Instead of writing “passionate about coding,” I’ll just say:<br>
 
-📫 Mail me @ **nishthadoshi10@gmail.com**
+- 🏆 Achievements in Competitive Programming: **ICPC AlgoQueen 2025 (Rank 56, Top 1% globally)** | **Flipkart Grid 7.0 Semi-Finalist (Top 1% nationwide)** | **LeetCode 1750+ rating, Top 8%**
+- I’ve solved **1000+ problems** across LeetCode, Codeforces & CodeChef — algorithms are my gym.
+- I love taking projects **from whiteboard → production** (chat apps, T&C analyzers, rail bogey detection system).
+- I debug fast, refine faster, and optimize until systems run at peak efficiency.
+
+📫 Mail @ **nishthadoshi10@gmail.com**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nishthadoshi) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/nishtha_d10) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NishthaDoshi_) 
