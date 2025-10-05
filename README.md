@@ -1,6 +1,7 @@
 # Hi , I'm Nishtha Doshi 👋
 ## About Me
 An engineer who thinks in **algorithms, builds in full-stack, and experiments in AI**.  <br>Instead of writing “passionate about coding,” I’ll just say:<br>
+<img align="right" alt="coding" width="400" src="./Woman Coding GIF by Pluralsight.gif">
 
 - 🏆 Achievements in Competitive Programming: **ICPC AlgoQueen 2025 (Rank 56, Top 1% globally)** | **Flipkart Grid 7.0 Semi-Finalist (Top 1% nationwide)** | **LeetCode 1750+ rating, Top 8%**
 - I’ve solved **1000+ problems** across LeetCode, Codeforces & CodeChef — algorithms are my gym.
