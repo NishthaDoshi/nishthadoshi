@@ -4,8 +4,8 @@ An engineer who thinks in **algorithms, builds in full-stack, and experiments in
 <img align="right" alt="coding" width="400" src="./Woman Coding GIF by Pluralsight.gif">
 
 - 🏆 Achievements in Competitive Programming: **ICPC AlgoQueen 2025 (Rank 56, Top 1% globally)** | **Flipkart Grid 7.0 Semi-Finalist (Top 1% nationwide)** | **LeetCode 1857+ rating, Top 6%**
-- I’ve solved **1000+ problems** across LeetCode, Codeforces & CodeChef — algorithms are my gym.
-- I love taking projects **from whiteboard → production** (chat apps, T&C analyzers, rail bogey detection system).
+- Solved **1000+ problems** across LeetCode, Codeforces & CodeChef — algorithms are my gym.
+- Took projects **from whiteboard → production** (chat apps, T&C analyzers, rail bogey detection system).
 - I debug fast, refine faster, and optimize until systems run at peak efficiency.
 
 📫 Mail @ **nishthadoshi10@gmail.com**
